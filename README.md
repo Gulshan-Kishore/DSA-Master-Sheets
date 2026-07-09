@@ -1,6 +1,6 @@
 # DSA-Master-Sheets
 
-## 🙏 Credits
+## Credits
 
 This repository is based on **Raghav Sir's DSA Master Sheet**.
 
